@@ -57,9 +57,9 @@ export default {
   methods: {
     login() {
       this.form.validateFields((err) => {
-        // eslint-disable-next-line no-empty
         if (!err) {
-
+          sessionStorage.token = 'asdasdawfafawfwfawaw'
+          this.$router.push('/')
         }
       })
     },
@@ -83,7 +83,7 @@ export default {
   }
   &-form {
     background-color: #fff;
-    padding: 20px 30px;
+    padding: 25px 40px;
     border-radius: 5px;
     .password {
       margin-top: -10px;
