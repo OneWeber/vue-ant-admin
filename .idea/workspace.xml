@@ -2,26 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="57ecde4e-acc3-4a77-bc2d-a6d23f9de358" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/layout/components/Config.vue" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/layout/components/Title.vue" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/layout/components/User.vue" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/store/modules/app.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/.cache/babel-loader/64f24101e8a18ff09fae19d636927280.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/.cache/babel-loader/64f24101e8a18ff09fae19d636927280.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/node_modules/.cache/babel-loader/7101407806c3780bf0c8b0eb6840470d.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/.cache/babel-loader/7101407806c3780bf0c8b0eb6840470d.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/node_modules/.cache/vue-loader/24ba97a0807571dce8366397c0e92f4c.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/.cache/vue-loader/24ba97a0807571dce8366397c0e92f4c.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/.cache/vue-loader/264f3f579f249629aa7d808843c8ce7b.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/.cache/vue-loader/264f3f579f249629aa7d808843c8ce7b.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/.cache/vue-loader/2a3dc073339344049be1d50c142a9b79.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/.cache/vue-loader/2a3dc073339344049be1d50c142a9b79.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/.cache/vue-loader/52ca7c97b6fa4d5e780405290f8becb5.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/.cache/vue-loader/52ca7c97b6fa4d5e780405290f8becb5.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/.cache/vue-loader/55eb2f8ca0f9a995dee5489201d0b70e.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/.cache/vue-loader/55eb2f8ca0f9a995dee5489201d0b70e.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/.cache/vue-loader/6adbf47b6860b73bfd5742aecb173d26.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/.cache/vue-loader/6adbf47b6860b73bfd5742aecb173d26.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/.cache/vue-loader/32b66d170f0ffc1c5c69365e119aa02d.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/.cache/vue-loader/32b66d170f0ffc1c5c69365e119aa02d.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/node_modules/.cache/vue-loader/703f7b5493ebc6b20dbea2aa90bd3814.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/.cache/vue-loader/703f7b5493ebc6b20dbea2aa90bd3814.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/node_modules/.cache/vue-loader/c89dba439f8d03724ac9b47d2ed7034c.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/.cache/vue-loader/c89dba439f8d03724ac9b47d2ed7034c.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/node_modules/.cache/vue-loader/ebbb9280427ec7c5b804f95810037e90.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/.cache/vue-loader/ebbb9280427ec7c5b804f95810037e90.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/layout/Default.vue" beforeDir="false" afterPath="$PROJECT_DIR$/src/layout/Default.vue" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/main.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/store/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/store/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/views/login/index.vue" beforeDir="false" afterPath="$PROJECT_DIR$/src/views/login/index.vue" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -88,7 +76,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1601191798874</updated>
-      <workItem from="1601191799941" duration="6778000" />
+      <workItem from="1601191799941" duration="6993000" />
     </task>
     <servers />
   </component>
